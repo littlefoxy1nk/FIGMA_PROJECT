@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Allan:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@100..900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 20px;
+}
+
+
+body{
+    font-family: "Noto Sans Symbols", sans-serif;
+    background-color:#2D4480 ;
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;       /* Prend toute la hauteur de la fenêtre */        
+}
+
+
+.card{
+    background-color: white;
+    width: 288px;
+    border-radius: 27px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    position: relative;
+    padding: 20px 50px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.list {
+    padding-top:10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    margin-bottom:  25px;
+  
+}
+.list li {
+    display: flex;
+    align-items: center ;
+
+}
+.list li img {
+    margin-right: 20px;
+}
+
+
+
+.free {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2.5px ;
+    line-height: 56px;
+}
+
+.forever {
+    font-size: 36px;
+    font-family:"Allan", serif ;
+    font-weight: 400;
+    color: #2D4480 ;
+    transform:translateX(35px);
+    padding-bottom: 50px;
+}
+
+.start{
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #FFBC0F;
+    color:#253868 ;
+    letter-spacing: 0.6px;
+    border: none; 
+    border-radius: 25px;
+    padding: 20px 30px ;
+    position: absolute;
+    left:60px;
+    bottom:-30px;
+}
+
