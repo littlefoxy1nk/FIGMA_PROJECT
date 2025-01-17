@@ -1,4 +1,4 @@
-# To-Do List Project  
+# Figma Project  |  Pixel Perfect
 
 ## Description  
 This project is a pixel-perfect recreation of an application based on a Figma design. It demonstrates the use of **HTML** and **CSS** to replicate a modern UI while ensuring precise alignment, spacing, and styling.
@@ -32,7 +32,7 @@ The design for this project was based on the following Figma file:
 [Click here to view the Figma design](https://www.figma.com/design/vZ4JwyonFDZ4cZXM1fnyNP/EXERCISE2?node-id=1-18)  
 
 --
-## the final result :  
+## The final result :  
 You can view it here:  
 [Click here to visit my "website"](https://littlefoxy1nk.github.io/figma-project-2/)
 
